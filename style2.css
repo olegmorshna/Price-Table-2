@@ -1,0 +1,94 @@
+body{
+    background-color: #3A4965;
+}
+table{
+    border-collapse: collapse;
+    font-family: 'Arimo', sans-serif;
+    text-transform: uppercase;
+    color: #484848;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 28px;
+}
+.shadow{
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);;
+}
+
+.choose{
+    font-weight: bold;
+    font-size: 14px;
+}
+.pricing{
+    font-weight: bold;
+    font-size: 20px;
+}
+.border-bottom{
+    border-bottom: 14px solid #3A4965;
+}
+.plan-pricing{
+    background-color: #FAFAFA;
+    width: 201px;
+    height: 115px;
+}
+.storage, .email, .products{
+    background-color: #E3E3E3;
+    width: 157px;
+}
+.pricing-plan, .bandwidth, .support, .users{
+    background-color: #F2F2F2;
+    width: 157px;
+}
+.sup{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 0.5;
+    vertical-align: top;
+    color: #fff;
+}
+.prices{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 28px;
+    color: #FFF
+}
+.main-info{
+    width: 198px;
+    height: 164px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.27);
+}
+.green{
+    background-color: #89C331;
+}
+.red{
+    background-color: #F04A56;
+}
+.blue{
+    background-color: #20807C;
+}
+.info-text{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #fff;
+}
+.info-text2{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 28px;
+    color: #fff;
+}
+.btn{
+    width: 147px;
+    height: 44px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #484848;
+    margin-top: 13px;
+}
+
